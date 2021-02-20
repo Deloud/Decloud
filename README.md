@@ -7,23 +7,21 @@
 ## About 💡
 
 클라우드 플랫폼의 DevOps에서 CI 파이프라인 환경에 Contract Test 자동화 기술을 구축/개발하여 서비스 안전성 확보에 대하여 검증하고 이를 통해 클라우드 기반 서비스를 운영할 수 있도록 효율적이고 안정적인 DevOps 구성 방안을 연구하여 Contract Test 기반이 적용된 DevOps 체계 구성도를 개발하고자 한다. 
+
 <br>
 
-**체계도** <br>
 <img src="https://user-images.githubusercontent.com/43091713/107845428-9c94be00-6e1e-11eb-83f5-538448fa8578.png" width="50%">
 
 <br>
 
 ## Service Repository 🚀
 
-Spring Boot API & Contract Test (MSA)
+Spring Boot API & Contract Test (MSA) <br>
 
-<br>
-
-▶️ [Shopping-Product](https://github.com/Deloud/Shopping-Product) <br>
-▶️ [Shopping-Customer](https://github.com/Deloud/Shopping-Customer) <br>
-▶️ [Shopping-Cart](https://github.com/Deloud/Shopping-Cart) <br>
-▶️ [Shopping-Order](https://github.com/Deloud/Shopping-Order) <br>
+> [Shopping-Product](https://github.com/Deloud/Shopping-Product) <br>
+> [Shopping-Customer](https://github.com/Deloud/Shopping-Customer) <br>
+> [Shopping-Cart](https://github.com/Deloud/Shopping-Cart) <br>
+> [Shopping-Order](https://github.com/Deloud/Shopping-Order) <br>
 
 <br>
 
