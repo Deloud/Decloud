@@ -1,5 +1,4 @@
 # Deloud 
-= DevOps + Cloud <br>
 클라우드 기반 모듈화된 서비스의 DevOps 개선 방안 연구 (모듈화된 MSA간의 API 규약 자동화 검증 방안 마련)
 
 <br>
@@ -32,9 +31,3 @@ Spring Boot API & Contract Test (MSA) <br>
 * Docker - Kubernetes & Jenkins
 
 <br>
-
-## Member 
-
-REST API | Contract Test | Jenkins K8s 
------ | ----- | ---- |
-[김지원](https://github.com/kl529)|[이정인](http://github.com/zungin) & [정은지](https://github.com/JeongEunJi1127)| [김두호](https://github.com/Source-SC) & [권승주](https://github.com/BenKwon)
